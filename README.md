@@ -1,1 +1,1 @@
-# Internship-project
+# InternshipJavaProject2
